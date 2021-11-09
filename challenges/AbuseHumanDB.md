@@ -47,7 +47,7 @@ async getEntry(query, approved=1) {
     }
 ```
 
-Don't waste your time reading all of the source code we know our goal and injection point so let's look for the functions the execute `listEntries` or `getEntry`
+Don't waste your time reading all of the source code we know our goal and injection point so let's look for the functions that execute `listEntries` or `getEntry`
 
 **routes/index.js**
 ```js
