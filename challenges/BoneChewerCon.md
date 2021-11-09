@@ -1,4 +1,4 @@
-## BoneChewerCon
+## BoneChewerCon - Hard
 Link : https://app.hackthebox.com/challenges/bonechewercon
 
 After downloading the necessary files for the challenge i've started looking how the app works and what it is supposed to do.
